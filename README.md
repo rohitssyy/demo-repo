@@ -2,4 +2,32 @@
 
 
 Learning GitHub and Git
- I DON'T EVEN KNOW WHAT TO RIGHT
+
+
+
+
+
+
+
+
+
+This is the user making some changes in the file in vim 
+
+i have cloned the repo from my github and now i am making changes in it 
+
+and then i will add it then commit it then push it to the remote repository
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I DON'T EVEN KNOW WHAT TO WRITE
