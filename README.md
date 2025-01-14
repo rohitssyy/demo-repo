@@ -1,3 +1,5 @@
-# demo-repo
+# THIS IS JUST CHECKING THINGS OUT AND WORKING ON IT
+
+
 Learning GitHub and Git
  I DON'T EVEN KNOW WHAT TO RIGHT
